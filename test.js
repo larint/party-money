@@ -104,7 +104,7 @@ function writeData(auth) {
     };
     sheets.spreadsheets.values.append(
         {
-            spreadsheetId: '1SQ393Finj3fY6ky3mGvhH_yOtb-2ABT-Y8qC_UAwabA',
+            spreadsheetId: '',
             range: 'Class Data!A1',
             valueInputOption: 'RAW',
             resource: resource,
