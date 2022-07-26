@@ -6,7 +6,7 @@
     "scripts": {
         "start": "node index.js",
         "watch": "nodemon --watch \".\" --watch \"./index.js\" --exec \"node index.js\"",
-        "publish": "git add . && git commit -m 'init' && git push origin master",
+        "publish": "git add . && git commit -m 'init' && git push origin",
         "build-db": "",
         "seed-db": ""
     },
